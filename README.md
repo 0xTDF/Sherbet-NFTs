@@ -21,9 +21,9 @@ Sherbet are the sweetest NFTs on the Ethereum blockchain. Every character is ran
 ### Treats and traits
 Our trait pool consists of over 90 assets, ranging from lollipop heads to skeleton bodies. Each trait is meticulously hand-drawn in SVG format by the team at Thunder Rockets.
 
-[Website](https://sherbet.com/)
+## [Website](https://sherbet.com/)
 
-[OpenSea](https://opensea.io/collection/playsherbet
+## [OpenSea](https://opensea.io/collection/playsherbet)
 
 
 
