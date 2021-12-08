@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img width="1080" height="200" src="/Sherbet Banner.png">
+  <img width="1080" height="230" src="/Sherbet Banner.png">
 </p>
 
 
